@@ -1,0 +1,40 @@
+{
+  "status":1,
+  "result":{
+    "totalMoney":59,
+    "list":[
+      {
+        "productId":"600100002115",
+        "productName":"YSL唇釉",
+        "productPrice":235,
+        "productQuentity":1,
+        "productImage":"img/goods-1.jpg",
+        "parts":[
+          {
+            "partsId":"10001",
+            "partsName":"#102"
+          },
+          {
+            "partsId":"10002",
+            "partsName":"#105"
+          }
+        ]
+        
+      },
+      {
+        "productId":"600100002120",
+        "productName":"植村秀眉笔",
+        "productPrice":115,
+        "productQuentity":1,
+        "productImage":"img/goods-2.jpg",
+        "parts":[
+          {
+            "partsId":"20001",
+            "partsName":"#06"
+          }
+        ]
+      }
+    ]
+  },
+  "message":""
+}
